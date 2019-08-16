@@ -1,0 +1,71 @@
+@import url("/fonts/stylesheet.css");
+
+h2 {
+  font-family: "Stratos Deliveroo Web";
+  font-weight: 600;
+  font-style: normal;
+  font-size: 40px;
+  line-height: 40px;
+  margin-bottom: 30px;
+  margin-top: 50px;
+  color: #2e3333;
+}
+
+.first {
+  background-color: #ffeae4;
+  width: 100%;
+}
+.two {
+  background-color: #f9fafa;
+  width: 100%;
+}
+h3 {
+  font-family: "Stratos Deliveroo Web";
+  font-weight: 600;
+  font-style: normal;
+  font-size: 40px;
+  line-height: 46px;
+}
+h4 {
+  font-family: "Stratos Deliveroo Web";
+  font-weight: 600;
+  font-style: normal;
+  font-size: 22px;
+  line-height: 22px;
+}
+p {
+  font-family: "IBM Plex Sans";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 22px;
+}
+.card-text {
+  font-family: "IBM Plex Sans";
+  font-weight: normal;
+  font-style: normal;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+ul > li > a {
+  color: #2e3333;
+  font-size: 28px;
+  line-height: 28px;
+  font-family: "Stratos Deliveroo Web";
+  font-weight: 600;
+  font-style: normal;
+  background-color: #f9fafa;
+}
+ul > li {
+  margin: 0px 10px;
+  padding: 10px;
+}
+
+button {
+  background-color: #01c2b3;
+  color: white;
+  border-radius: 3px;
+}
